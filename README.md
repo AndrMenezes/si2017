@@ -16,7 +16,7 @@ They can be found [here](https://www.researchgate.net/profile/Andre_Menezes2).
 
 
 ***
-> [Report](https://github.com/AndrMenezes/si2016/raw/master/docs/final_report.pdf)
+> [Report](https://github.com/AndrMenezes/si2017/raw/master/README.md)
 
 > [Main paper](https://journal.r-project.org/archive/2017/RJ-2017-055/index.html)
 ***
