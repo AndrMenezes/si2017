@@ -6,14 +6,13 @@ with period of validity from Ago/2017 to July/2018.
 
 
 ## Summary
-In this project I studied the three approach to obtain bias-corrected maximum likelihood estimates for the parameters of 
+In this project I studied three approach to obtain bias-corrected maximum likelihood estimates for the parameters of 
 any probability distribution. 
-We also introduce the `mle.tools` package which can be used to computes the expected/observed Fisher information and the bias corrected
+We also introduce the [`mle.tools`](https://cran.r-project.org/web/packages/mle.tools/index.html) package which can be used to computes the expected/observed Fisher information and the bias corrected
 estimates for the parameters of any probability distribution. 
+
 It should be point out that several articles were producing during this project. 
 They can be found [here](https://www.researchgate.net/profile/Andre_Menezes2).
-
-
 
 ***
 > [Report](https://github.com/AndrMenezes/si2017/raw/master/README.md)
