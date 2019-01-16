@@ -12,10 +12,10 @@ We also introduce the [`mle.tools`](https://cran.r-project.org/web/packages/mle.
 estimates for the parameters of any probability distribution. 
 
 It should be point out that several articles were producing during this project. 
-They can be found [here](https://www.researchgate.net/profile/Andre_Menezes2).
+They can be found [here](https://www.researchgate.net/profile/Andre_Menezes2/research).
 
 ***
-> [Report](https://github.com/AndrMenezes/si2017/raw/master/README.md)
+> [Report](https://github.com/AndrMenezes/si2017/raw/master/final_report.pdf)
 
 > [Main paper](https://journal.r-project.org/archive/2017/RJ-2017-055/index.html)
 ***
